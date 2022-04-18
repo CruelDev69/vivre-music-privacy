@@ -12,4 +12,5 @@ No, we can't because we are using slash commands and we don't need any type of y
 
 ## If you have any types of questions contact us at:
 [Our support server](https://discord.gg/hW5yWHgEtf)
+
 [Our support email](mailto:vivrebot@gmail.com)
